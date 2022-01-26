@@ -10,7 +10,7 @@ Login Page Credentials: lgm (username), lgm123 (password)
 
 # How to use it (for referencial puspose):
 
-Download the ZIP file from Github. After that extract it in your C Drive >> XAMMP >> htdocs folder. Start Basic XAMPP Settings. That's it, You are ready to start coding!
+Download the ZIP file from Github. After that extract it in your C Drive >> XAMMP >> htdocs folder. Start Basic XAMPP Settings, Create a database with name "lgmdb" and import the lgmdb.sql from database folder in your database. That's it, You are ready to start coding!
 
 # LICENSE:
 
